@@ -1,0 +1,2 @@
+# alkstat
+Alkstat beadandó
